@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Learning and practicing React Js using Brad's crash course
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
